@@ -1,4 +1,4 @@
-package lista3.Q02;
+package lista03.Q02;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package lista3.Q03;
+package lista03.Q03;
 
 public class Circulo {
     float raio;

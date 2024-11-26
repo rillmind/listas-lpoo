@@ -1,4 +1,4 @@
-package lista2;
+package lista02;
 
 import java.util.*;
 
